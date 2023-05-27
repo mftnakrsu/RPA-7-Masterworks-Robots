@@ -24,7 +24,7 @@ With RPA, you can achieve a wide range of automation tasks. Let's explore the ca
 These robots demonstrate the power of UIPATH RPA in automating processes such as clothing recommendations, data extraction, web scraping, PDF analysis, receipt data extraction, and email automation.
 
   
-## [Building Robot #1: Clothing Consultant](https://github.com/mftnakrsu/RPA-7-Masterworks-Robots/blob/main/Robot1_ClothingConsultant/Main.xaml)
+## [Building Robot #1: Clothing Consultant](https://github.com/mftnakrsu/RPA-7-Masterworks-Robots/tree/main/Robot1_ClothingConsultant)
 
 Clothing Consultant, fashion recommendations and personal styling made easy. This UIPATH RPA-powered automation solution utilizes machine learning algorithms to analyze trends and offer personalized outfit suggestions. Elevate your fashion game with the Clothing Consultant robot, your virtual stylist for a confident and fashionable wardrobe. This robot demonstrates the following tasks:
 
